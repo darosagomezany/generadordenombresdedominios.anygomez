@@ -1,1 +1,10 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+#div1{
+    text-align: center;
+    font-size: 60px;
+    font-family: serif, Helvetica, sans-serif;
+    margin-top: 150px;
+}
+
+#domainGenerator{
+    color: rgb(209, 243, 14);
+}
